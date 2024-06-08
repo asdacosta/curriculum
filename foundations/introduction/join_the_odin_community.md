@@ -12,7 +12,7 @@ Remember that project you struggled so hard to figure out and that you're so pro
 
 ### Why a community is awesome for Odin
 
-We are working hard to update existing lessons and produce new content, so we would love to hear your feedback on the lessons and projects. We hope you find the lessons fun, engaging, and informative and find the projects challenging but achievable. So please let us know your thoughts!
+We are working hard to update existing lessons and produce new content, so we would love to hear your feedback on the lessons and projects. We hope you find the lessons fun, engaging, and informative, and find the projects challenging but achievable. So please let us know your thoughts!
 
 ### Before asking for help
 
@@ -66,7 +66,7 @@ Your Multiple Lines of Code
 
 You can also use _code highlighting_ to add color to your multi-line code by specifying the language:
 
-\`\`\`**js** or **javascript**
+\`\`\`**js** or **javacript**
 
 Your Multiple Lines of Colorful Code
 
